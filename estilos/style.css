@@ -41,6 +41,9 @@ section#redes-sociais {
     text-align: right;
     flex-direction: column;
 }
+#redes-sociais a {
+    outline: none;
+}
 section#redes-sociais img {
     width: 50px;    
     margin: 15px;
