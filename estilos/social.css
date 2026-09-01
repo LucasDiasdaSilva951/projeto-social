@@ -9,7 +9,7 @@ body {
     scrollbar-width: none;
 }
 img {
-    width: 98vw;
+    width: 100vw;
 
 }
 img::-webkit-scrollbar {
