@@ -9,8 +9,8 @@ body {
     scrollbar-width: none;
 }
 img {
-    width: 96vw;
-    overflow-y: scroll;
+    width: 93.1vw;
+
 }
 img::-webkit-scrollbar {
     display: none;
